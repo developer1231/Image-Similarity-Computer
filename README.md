@@ -21,7 +21,7 @@ Usage
 ## To use the Image Similarity Checker, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/image-similarity-checker.git
+git clone [find the git here](https://github.com/developer1231/Image-Similarity-Computer)
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans).
 3. Add your images to the project directory. Make sure that they are within the same project!
 4. Modify the main method in Mavenproject1 class to include your image file names:
