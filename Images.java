@@ -21,7 +21,7 @@ private Path imagePath;
 
 public Images(String identifier){
      this.identifier = identifier;
-     this.imagePath = Paths.get("/Users/apple/NetBeansProjects/mavenproject1/src/main/java/com/zipper/mavenproject1/" + identifier);
+     this.imagePath = Paths.get("NetBeansProjects/mavenproject1/src/main/java/com/zipper/mavenproject1/" + identifier);
       
    try {
           this.image = ImageIO.read(new File(imagePath.toString()));
